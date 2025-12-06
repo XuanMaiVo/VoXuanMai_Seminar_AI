@@ -1,0 +1,50 @@
+[
+  {
+    "text": "hàng đẹp đấy",
+    "tokenized": "hàng_đẹp_đấy",
+    "label": "POS",
+    "score": 0.9925236105918884,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:00:54.675077"
+  },
+  {
+    "text": "Hàng này cũng tạm",
+    "tokenized": "Hàng_này_cũng_tạm",
+    "label": "NEG",
+    "score": 0.9592148065567017,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:06:28.223404"
+  },
+  {
+    "text": "cũng tạm được",
+    "tokenized": "cũng_tạm_được",
+    "label": "NEU",
+    "score": 0.8959968090057373,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:07:48.182706"
+  },
+  {
+    "text": "hàng xịn đấy",
+    "tokenized": "hàng_xịn_đấy",
+    "label": "NEG",
+    "score": 0.9879037737846375,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:08:06.064013"
+  },
+  {
+    "text": "hàng xịn đấy",
+    "tokenized": "hàng_xịn_đấy",
+    "label": "NEG",
+    "score": 0.9879037737846375,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:08:09.646060"
+  },
+  {
+    "text": "dịch vụ rất tốt",
+    "tokenized": "dịch vụ_rất_tốt",
+    "label": "NEG",
+    "score": 0.9881306886672974,
+    "model": "wonrax/phobert-base-vietnamese-sentiment",
+    "created_at": "2025-11-20T14:27:28.106446"
+  }
+]
